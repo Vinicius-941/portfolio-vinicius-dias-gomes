@@ -4,7 +4,7 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vinnytkcomercial@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vinnytkcomercial@gmail.com)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/Vinicius-941/portfolio-vinicius-dias-gomes/blob/main/cv.pdf)
  
