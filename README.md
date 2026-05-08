@@ -57,6 +57,10 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade d
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados** | um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./data-audit-algorithm/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Sistema de Auditoria de Recursos Corporativos** | um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./corp-data-audit-system/) |
  
 #### Engenharia de Prompt e aplicações em IA
 | Projeto | Descrição | Link |
