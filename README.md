@@ -56,27 +56,33 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade d
 #### Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
+
 | **Algoritmo de Auditoria de Dados** | um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./data-audit-algorithm/) |
 
 | **Engenharia de Soluções Lógicas** | Projeto de Engenharia de Soluções Lógicas que desenvolve um sistema de triagem médica automatizada usando algoritmos e fluxogramas para classificar atendimentos com base em sinais vitais.| [Ver Projeto](./logic-solution-engineering/) |
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
+| **Sistema de Compra e Troco** | Sistema de Cálculo de Compras com Troco | [Ver Projeto](./vending-system/) |
+
+| **Sistema de Auditoria de Recursos Corporativos** | Sistema de Auditoria de Recursos Corporativos. | [Ver Projeto](./corp-data-audit-system/) |
+
 | **Sistema de Auditoria de Recursos Corporativos** | Sistema de Auditoria de Recursos Corporativos. | [Ver Projeto](./corp-data-audit-system/) |
  
 #### Engenharia de Prompt e aplicações em IA
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
+
 | **Projeto Teste** | Lorem Ipsum Dolor. | [Ver Projeto](./projeto-ia-churn/) |
 
 #### Prototipagem de Sistemas
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
+
 | **Projeto Teste** | Lorem Ipsum Dolor. | [Ver Projeto](./projeto-ia-churn/) |
  
 #### Interface e jornada de Usuário
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
+
 | **Projeto Teste** | Lorem Ipsum Dolor. | [Ver Projeto](./projeto-ia-churn/) |
  
 ---
