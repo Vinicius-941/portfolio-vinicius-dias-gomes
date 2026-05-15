@@ -44,10 +44,3 @@ Breve explicação de como o código foi organizado:
 * `[Explique aqui em 1 ou 2 parágrafos como você pensou para construir a sua recursão e como o decorator foi acoplado no projeto]`.
 * **Dados:** Os dados simulados da empresa foram estruturados em... `[explique a estrutura do seu dicionário]`.
  
-## 👤 Autor
- 
-* **[Seu Nome Completo]** * LinkedIn: [Seu Link]
-* E-mail: [Seu E-mail]
- 
----
-*Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
