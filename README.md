@@ -72,6 +72,10 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade d
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
+| **Gerador de Emojis Via Código** | Gerador de Emojis Via Código | [Ver Projeto](./emoji-generator-system/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
 | **Sistema de Auditoria de Recursos Corporativos** | Sistema de Auditoria de Recursos Corporativos. | [Ver Projeto](./corp-data-audit-system/) |
  
 #### Engenharia de Prompt e aplicações em IA
